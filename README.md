@@ -1,0 +1,23 @@
+# AEMET_pre-determination_analysis
+Analysis of predicted values and real values registered in the API of metereology aemet.
+
+![Documento_Pruebas_y_Prácticas_Trabajo_Final_PEBD_PD_Jesús_Blanco_Antoraz-01](https://github.com/MirrorX-dev/AEMET_pre-determination_analysis/assets/64260560/04304915-1f0e-4de9-83af-254b8b89d83b)
+![Documento_Pruebas_y_Prácticas_Trabajo_Final_PEBD_PD_Jesús_Blanco_Antoraz-02](https://github.com/MirrorX-dev/AEMET_pre-determination_analysis/assets/64260560/9b60aae3-04f6-464f-9795-d11d2a7343d3)
+![Documento_Pruebas_y_Prácticas_Trabajo_Final_PEBD_PD_Jesús_Blanco_Antoraz-03](https://github.com/MirrorX-dev/AEMET_pre-determination_analysis/assets/64260560/b9a2c45b-89b6-4931-a31e-2dfb19e09c3f)
+![Documento_Pruebas_y_Prácticas_Trabajo_Final_PEBD_PD_Jesús_Blanco_Antoraz-04](https://github.com/MirrorX-dev/AEMET_pre-determination_analysis/assets/64260560/bcce06d2-bc69-419a-b6e2-5fec80e37f59)
+![Documento_Pruebas_y_Prácticas_Trabajo_Final_PEBD_PD_Jesús_Blanco_Antoraz-05](https://github.com/MirrorX-dev/AEMET_pre-determination_analysis/assets/64260560/7935de14-d4cf-4146-aa4d-6c88225d9486)
+![Documento_Pruebas_y_Prácticas_Trabajo_Final_PEBD_PD_Jesús_Blanco_Antoraz-06](https://github.com/MirrorX-dev/AEMET_pre-determination_analysis/assets/64260560/2f5c84de-c3ea-4597-87eb-cb9a18977afc)
+![Documento_Pruebas_y_Prácticas_Trabajo_Final_PEBD_PD_Jesús_Blanco_Antoraz-07](https://github.com/MirrorX-dev/AEMET_pre-determination_analysis/assets/64260560/7149c5ea-8f2e-4df2-99f4-e80be6c30943)
+![Documento_Pruebas_y_Prácticas_Trabajo_Final_PEBD_PD_Jesús_Blanco_Antoraz-08](https://github.com/MirrorX-dev/AEMET_pre-determination_analysis/assets/64260560/79fbc34b-189f-4cfd-946d-5cf9b21690fc)
+![Documento_Pruebas_y_Prácticas_Trabajo_Final_PEBD_PD_Jesús_Blanco_Antoraz-09](https://github.com/MirrorX-dev/AEMET_pre-determination_analysis/assets/64260560/2541dc38-aeae-4c4f-8ab1-18d945616537)
+![Documento_Pruebas_y_Prácticas_Trabajo_Final_PEBD_PD_Jesús_Blanco_Antoraz-10](https://github.com/MirrorX-dev/AEMET_pre-determination_analysis/assets/64260560/f98ae757-ff22-4097-97c4-a377ec996d27)
+![Documento_Pruebas_y_Prácticas_Trabajo_Final_PEBD_PD_Jesús_Blanco_Antoraz-11](https://github.com/MirrorX-dev/AEMET_pre-determination_analysis/assets/64260560/c514d161-8886-449f-af77-eff3e17a796a)
+![Documento_Pruebas_y_Prácticas_Trabajo_Final_PEBD_PD_Jesús_Blanco_Antoraz-12](https://github.com/MirrorX-dev/AEMET_pre-determination_analysis/assets/64260560/be7df9a6-e977-4057-9143-5233549bf71a)
+![Documento_Pruebas_y_Prácticas_Trabajo_Final_PEBD_PD_Jesús_Blanco_Antoraz-13](https://github.com/MirrorX-dev/AEMET_pre-determination_analysis/assets/64260560/462d1ee3-c193-4a17-a3ab-43262b18a0b8)
+![Documento_Pruebas_y_Prácticas_Trabajo_Final_PEBD_PD_Jesús_Blanco_Antoraz-14](https://github.com/MirrorX-dev/AEMET_pre-determination_analysis/assets/64260560/3e8a67c7-9bd9-462a-a0e3-b0d4f5dfae08)
+![Documento_Pruebas_y_Prácticas_Trabajo_Final_PEBD_PD_Jesús_Blanco_Antoraz-15](https://github.com/MirrorX-dev/AEMET_pre-determination_analysis/assets/64260560/29802c2e-42d2-410a-a5e1-21a8b7bc245e)
+![Documento_Pruebas_y_Prácticas_Trabajo_Final_PEBD_PD_Jesús_Blanco_Antoraz-16](https://github.com/MirrorX-dev/AEMET_pre-determination_analysis/assets/64260560/0f7575d3-2449-4e59-ab93-57081cdb96f9)
+![Documento_Pruebas_y_Prácticas_Trabajo_Final_PEBD_PD_Jesús_Blanco_Antoraz-17](https://github.com/MirrorX-dev/AEMET_pre-determination_analysis/assets/64260560/172c4d9f-5038-47df-920d-c03098bbf52f)
+![Documento_Pruebas_y_Prácticas_Trabajo_Final_PEBD_PD_Jesús_Blanco_Antoraz-18](https://github.com/MirrorX-dev/AEMET_pre-determination_analysis/assets/64260560/03c0a27d-3bf8-40f8-9bef-9d15496d485d)
+![Documento_Pruebas_y_Prácticas_Trabajo_Final_PEBD_PD_Jesús_Blanco_Antoraz-19](https://github.com/MirrorX-dev/AEMET_pre-determination_analysis/assets/64260560/2c2cde32-f651-4705-af6a-da613c537052)
+![Documento_Pruebas_y_Prácticas_Trabajo_Final_PEBD_PD_Jesús_Blanco_Antoraz-20](https://github.com/MirrorX-dev/AEMET_pre-determination_analysis/assets/64260560/f5fc0b10-b109-4def-82b0-8d7906f2d5d7)
